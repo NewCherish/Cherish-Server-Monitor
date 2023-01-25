@@ -4,7 +4,7 @@
     "url": "$DEV_URI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cherish-dev-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 373,
     "timeMonth": 381,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
