@@ -6,17 +6,15 @@
     "slug": "cherish-dev-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 380,
-    "timeDay": 317,
-    "timeWeek": 361,
-    "timeMonth": 384,
+    "timeDay": 350,
+    "timeWeek": 360,
+    "timeMonth": 386,
     "timeYear": 380,
-    "dailyMinutesDown": {
-      "2023-12-17": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
